@@ -1,0 +1,50 @@
+# Django
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Base de datos
+*.sqlite3
+*.db
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+venv.bak/
+env.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local
+settings/local.py
+
+# Static files generados
+staticfiles/
+
+# Media files
+media/
+
+# Migraciones (opcional, solo si quieres)
+# !api/migrations/
+# api/migrations/*
+# !api/migrations/__init__.py
