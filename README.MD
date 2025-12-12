@@ -6,7 +6,6 @@
 **Documentación API:** `http://52.22.98.94:8000/api/docs/`  
 **Desarrolladores:** Matias Vega, Alma Vargas  
 **Asignatura:** Programación Back End - INACAP  
-**Última actualización:** Enero 2024
 
 ## 📋 Tabla de Contenidos
 - [Características](#-características-principales)
@@ -602,3 +601,4 @@ Este proyecto fue desarrollado con fines académicos para el curso de Programaci
 **✨ Proyecto completamente funcional y desplegado en AWS**  
 *Sistema de Control de Acceso RFID SmartConnect*  
 Última actualización: Enero 2024
+
