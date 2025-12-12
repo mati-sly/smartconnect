@@ -578,7 +578,7 @@ df -h
 
 ## 📝 Changelog
 
-### v1.0.0 (Enero 2024)
+### v1.0.0 (Diciembre 2025)
 - ✅ CRUD completo de usuarios, departamentos y sensores
 - ✅ Sistema de autenticación JWT con roles
 - ✅ Validación RFID en tiempo real
@@ -601,4 +601,5 @@ Este proyecto fue desarrollado con fines académicos para el curso de Programaci
 **✨ Proyecto completamente funcional y desplegado en AWS**  
 *Sistema de Control de Acceso RFID SmartConnect*  
 Última actualización: Enero 2024
+
 
